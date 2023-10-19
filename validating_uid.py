@@ -1,4 +1,4 @@
-# Problem: https://www.hackerrank.com/challenges/validating-uid/
+# Problem: https://www.hackerrank.com/challenges/validating-uid
 
 from re import match
 T = int(input())
